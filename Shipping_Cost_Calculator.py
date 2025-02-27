@@ -1,4 +1,5 @@
 # Here is a new update by schillermaphone
+# Here is another update by schillermaphone
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
